@@ -1,0 +1,7 @@
+../Src/main.c:10:1:__io_putchar	16	static
+../Src/main.c:30:5:main	16	static
+../Src/main.c:67:6:impulse_response_f	48	static
+../Src/main.c:88:6:hamming_window	24	static
+../Src/main.c:100:7:filter_coeff	24	static
+../Src/main.c:111:6:signal_padded	24	static
+../Src/main.c:129:14:convolution	40	static

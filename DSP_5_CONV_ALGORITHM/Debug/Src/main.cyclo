@@ -1,0 +1,7 @@
+../Src/main.c:10:1:__io_putchar	1
+../Src/main.c:30:5:main	2
+../Src/main.c:67:6:impulse_response_f	3
+../Src/main.c:88:6:hamming_window	2
+../Src/main.c:100:7:filter_coeff	2
+../Src/main.c:111:6:signal_padded	3
+../Src/main.c:129:14:convolution	5

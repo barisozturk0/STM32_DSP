@@ -1,0 +1,4 @@
+../Src/usart.c:15:6:USART_Init	1
+../Src/usart.c:64:6:USART1_Transmit	2
+../Src/usart.c:70:6:baudrate_set	1
+../Src/usart.c:76:10:baudrate_calc	1
