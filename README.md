@@ -17,10 +17,10 @@ Please refer to the specific README.md file in each sub-directory for more infor
 
 
 ## License Terms
--This project is licensed under the [MIT License](LICENSE).
--CMSIS-DSP-Include is licensed under Apache License 2.0.[Apache License 2.0.](LICENSE)
--CMSIS-Include is licensed under Apache License 2.0.[Apache License 2.0.](LICENSE)
--CMSIS-Device-ST-STMF3xx-Include is  licensed under BSD-3-Clause License [The 3-Clause BSD License](LICENSE)
+- This project is licensed under the [MIT License](LICENSE).
+- CMSIS-DSP-Include is licensed under Apache License 2.0.[Apache License 2.0.](LICENSE)
+- CMSIS-Include is licensed under Apache License 2.0.[Apache License 2.0.](LICENSE)
+- CMSIS-Device-ST-STMF3xx-Include is  licensed under BSD-3-Clause License [The 3-Clause BSD License](LICENSE)
 ## CMSIS-DSP Kernels
 Kernels provided by CMSIS-DSP (list not exhaustive):
 
