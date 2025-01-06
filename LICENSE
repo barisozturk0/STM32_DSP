@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 The original authors
+Copyright (c) 2024 barisozturk0
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,22 +20,31 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This project uses third-party libraries licensed under the BSD-3 License.
+This project includes CMSIS-DSP (Apache License 2.0) and CMSIS-ST Library (BSD-3-Clause)
 
-The BSD-3 License can be found here:
-https://opensource.org/licenses/BSD-3-Clause
+### Third-Party Licenses
 
-The third-party code used in this project is licensed under the BSD-3 License. This project does not claim any copyright on these libraries.
+This project makes use of third-party libraries that are governed by their own licenses. These libraries and their respective licenses are listed below:
+
+#### 1. BSD-3-Clause Licensed Libraries
+- The third-party code used under the BSD-3-Clause License retains its respective copyright. 
+- Path:
+  - CMSIS/DEVICE/ST/STMF3XX/INCLUDE
+- License details: [BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+
+#### 2. Apache License 2.0 Licensed Libraries
+- The third-party code used under the Apache License 2.0 retains its respective copyright.
+- Path:
+  - CMSIS/INCLUDE
+  - CMSIS/DSP/INCLUDE
+- License details: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 
-This project uses third-party libraries licensed under the Apache License 2.0.
+---
 
-The Apache License 2.0 can be found here:
-https://www.apache.org/licenses/LICENSE-2.0
+### Disclaimer
 
-The third-party code used in this project is licensed under the Apache License 2.0. This project does not claim any copyright on these libraries.
-
-DISCLAIMER: The third-party libraries and code used in this project are governed by their respective licenses, which may impose additional terms. This project does not take any responsibility for third-party software.
+The third-party libraries and code used in this project are governed by their respective licenses. This project does not claim any copyright or ownership of these libraries. Users of this project are responsible for ensuring compliance with the terms of these licenses.
 
 
 
