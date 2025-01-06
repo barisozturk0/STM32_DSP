@@ -18,8 +18,9 @@ Please refer to the specific README.md file in each sub-directory for more infor
 
 ## License Terms
 -This project is licensed under the [MIT License](LICENSE).
--CMSIS-DSP is licensed under Apache License 2.0.[Apache License 2.0.](LICENSE)
--CMSIS-ST is  licensed under BSD-3-Clause License [The 3-Clause BSD License](LICENSE)
+-CMSIS-DSP-INCLUDE is licensed under Apache License 2.0.[Apache License 2.0.](LICENSE)
+-CMSIS-INCLUDE is licensed under Apache License 2.0.[Apache License 2.0.](LICENSE)
+-CMSIS-DEVICE-ST-STMF3XX-INCLUDE is  licensed under BSD-3-Clause License [The 3-Clause BSD License](LICENSE)
 ## CMSIS-DSP Kernels
 Kernels provided by CMSIS-DSP (list not exhaustive):
 
@@ -34,6 +35,7 @@ Kernels are provided with several datatypes : f64, f32, f16, q31, q15, q7.
 - **Hardware**: STM32 microcontroller (e.g., STM32F3 series).
 - **Software**: 
   - STM32CubeIDE or any compatible ARM Cortex-M IDE.
+  - ARM CMSIS library (included in the project).
   - ARM CMSIS-DSP library (included in the project).
   - - Standard libraries:
     - `stdint.h`
