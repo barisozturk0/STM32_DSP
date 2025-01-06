@@ -15,16 +15,22 @@ This repository contains various DSP algorithms implemented on STM32 microcontro
 
 Please refer to the specific README.md file in each sub-directory for more information on each module.
 
-## Requirements
-- STM32 microcontroller (e.g., STM32F4 series).
-- STM32CubeIDE or compatible development environment.
 
-## License
+## License Terms
 This project is licensed under the [MIT License](LICENSE).
+CMSIS-DSP is licensed under Apache License 2.0.[Apache License 2.0.](LICENSE)
+## CMSIS-DSP Kernels
+Kernels provided by CMSIS-DSP (list not exhaustive):
 
+Basic mathematics (real, complex, quaternion, linear algebra, fast math functions)
+DSP (filtering)
+Transforms (FFT, MFCC, DCT)
+Statistics
+Classical ML (Support Vector Machine, Distance functions for clustering ...)
+Kernels are provided with several datatypes : f64, f32, f16, q31, q15, q7.
 
 ## Requirements
-- **Hardware**: STM32 microcontroller (e.g., STM32F4 series).
+- **Hardware**: STM32 microcontroller (e.g., STM32F3 series).
 - **Software**: 
   - STM32CubeIDE or any compatible ARM Cortex-M IDE.
   - ARM CMSIS-DSP library (included in the project).
