@@ -29,14 +29,14 @@ This project makes use of third-party libraries that are governed by their own l
 #### 1. BSD-3-Clause Licensed Libraries
 - The third-party code used under the BSD-3-Clause License retains its respective copyright. 
 - Path:
-  - CMSIS/DEVICE/ST/STMF3XX/INCLUDE
+  - CMSIS/Device/ST/STMF3xx/Include
 - License details: [BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
 
 #### 2. Apache License 2.0 Licensed Libraries
 - The third-party code used under the Apache License 2.0 retains its respective copyright.
 - Path:
-  - CMSIS/INCLUDE
-  - CMSIS/DSP/INCLUDE
+  - CMSIS/Include
+  - CMSIS/DSP/Include
 - License details: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 
