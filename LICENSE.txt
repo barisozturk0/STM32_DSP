@@ -1,0 +1,51 @@
+MIT License
+
+Copyright (c) 2024 barisozturk0
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+This project includes CMSIS-DSP (Apache License 2.0) and CMSIS-STMF3xx Library (BSD-3-Clause)
+
+### Third-Party Licenses
+
+This project makes use of third-party libraries that are governed by their own licenses. These libraries and their respective licenses are listed below:
+
+#### 1. BSD-3-Clause Licensed Libraries
+- The third-party code used under the BSD-3-Clause License retains its respective copyright. 
+- Path:
+  - CMSIS/Device/ST/STMF3xx/Include
+- License details: [BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+
+#### 2. Apache License 2.0 Licensed Libraries
+- The third-party code used under the Apache License 2.0 retains its respective copyright.
+- Path:
+  - CMSIS/Include
+  - CMSIS/DSP/Include
+- License details: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+
+---
+
+### Disclaimer
+
+The third-party libraries and code used in this project are governed by their respective licenses. This project does not claim any copyright or ownership of these libraries. Users of this project are responsible for ensuring compliance with the terms of these licenses.
+
+
+
+  
