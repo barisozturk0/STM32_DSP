@@ -12,6 +12,7 @@ This repository contains various DSP algorithms implemented on STM32 microcontro
 7. **DSP_7_RUNNING_SUM**: Running sum algorithm.
 8. **DSP_8_DFT**: Discrete Fourier Transform (DFT) algorithm.
 9. **DSP_9_IDFT**: Inverse Discrete Fourier Transform (IDFT) algorithm.
+10. **DSP_10_HPF_FILTER_DESING**: Design of High Pass Filters (HPF).
 
 Please refer to the specific README.md file in each sub-directory for more information on each module.
 
