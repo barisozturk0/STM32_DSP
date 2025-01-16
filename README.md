@@ -13,6 +13,7 @@ This repository contains various DSP algorithms implemented on STM32 microcontro
 8. **DSP_8_DFT**: Discrete Fourier Transform (DFT) algorithm.
 9. **DSP_9_IDFT**: Inverse Discrete Fourier Transform (IDFT) algorithm.
 10. **DSP_10_HPF_FILTER_DESING**: Design of High Pass Filters (HPF).
+11. **DSP_11_REAL_SENSOR_DATA** : Design of FIR filter for Real Sensor Data 
 
 
 Please refer to the specific README.md file in each sub-directory for more information on each module.
